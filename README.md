@@ -1,27 +1,27 @@
-#Online Restaurant Website
+# Online Restaurant Website
 
 This repository contains our first semester university project ,an online Restaurantwebsite  based on the Cheezious theme.
 we make this website using HTML and css.
 
-##Project Details:
+## Project Details:
 
   . Final project (1st semester )
 
   . we use html and css.
 
- ###Website pages:
+ ### Website pages:
 
   Home, Menu, About, Blog, Contact
  
- ###Live Website:
+ ### Live Website:
 
  https://zoha67-jkl.github.io/Group7_OnlineRestaurant/
 
- ###Run Instructions:
+ ### Run Instructions:
 
   open index.html in web browser.
 
- ###Deliverable:
+ ### Deliverable:
 
   . Word Report
 
@@ -29,9 +29,9 @@ we make this website using HTML and css.
   
   . Excel files
 
-  #Group7-(Bs 1st semester)
+  # Group7-(Bs 1st semester)
 
-  ##Group member:
+  ## Group member:
   
    . Zoha Mujahid
 
